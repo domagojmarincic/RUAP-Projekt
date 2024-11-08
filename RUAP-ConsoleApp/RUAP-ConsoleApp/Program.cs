@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od [Domagoj Marinčić], broj indeksa: [36151]");
+            Console.WriteLine("Pozdrav iz aplikacije od [Domagoj Marinčić]");
         }
     }
 }
